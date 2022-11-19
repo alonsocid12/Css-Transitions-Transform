@@ -80,7 +80,7 @@ body {
     transform: skewX(20deg);
     transition: 400ms;
     /* transform: skewY(20deg)
-       transform: skewY(20deg) 
+       transform: skewX(20deg) 
        
        Without X or Y defaults to X.
     */
