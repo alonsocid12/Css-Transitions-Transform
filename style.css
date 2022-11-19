@@ -23,12 +23,6 @@ body {
 .rotate:hover {
     transform: rotate(20deg);
     transition: 400ms;
-
-    /* transform: translateX(-20px)
-       transform: translateY(-20px) 
-       
-       Without X or Y defaults to X.
-    */
 }
 
 .circle {
